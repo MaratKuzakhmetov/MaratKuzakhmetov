@@ -1,7 +1,7 @@
 ### Hi, I'm Marat 👋
 
-<!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> -->
-[пример](http://example.com/ "Необязательная подсказка")
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" [пример](http://example.com/ "Необязательная подсказка") />
+<!-- [пример](http://example.com/ "Необязательная подсказка") -->
 
 <!--
 **MaratKuzakhmetov/MaratKuzakhmetov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

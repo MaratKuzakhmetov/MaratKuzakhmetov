@@ -4,13 +4,11 @@
 <p>
 I love web-development and really think that it makes the world better
 </p>
-<br>
 <p>
 I enjoy animals, especially dogs, and also spend my time to help homeless animals
 </p>
-<br>
 <p>
-I want to start volunteering, so I hope than in near future I'll made some good things in that
+I want to start volunteering, so I hope than in near future I'll made some good things for that
 </p>
 
 <h3>My contacts are below:</h3>

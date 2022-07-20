@@ -1,4 +1,6 @@
-### Hi, I'm Marat 👋
+### Hi, I'm Marat and I'm a FullStack JavaScript Developer 👋
+
+### Here is my contacts
 
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marat-kuzakhmetov/)
 [![Telegram badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Marat_Kuzakhmetov)

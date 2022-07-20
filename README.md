@@ -1,4 +1,17 @@
-<h2>Hi, I'm Marat and I'm a FullStack JavaScript Developer 👋</h2> 
+<h2>Hi, I'm Marat and I'm a FullStack JavaScript Developer 👋</h2>
+
+<h3>Some information about me:</h3>
+<p>
+I love web-development and really think that it makes the world better
+</p>
+<br>
+<p>
+I enjoy animals, especially dogs, and also spend my time to help homeless animals
+</p>
+<br>
+<p>
+I want to start volunteering, so I hope than in near future I'll made some good things in that
+</p>
 
 <h3>My contacts are below:</h3>
 <p>

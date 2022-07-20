@@ -1,5 +1,5 @@
 <!-- ### Hi, I'm Marat and I'm a FullStack JavaScript Developer 👋 -->
-<h1 align="center">Hi, I'm Marat and I'm a FullStack JavaScript Developer 👋</h1> 
+<h1>Hi, I'm Marat and I'm a FullStack JavaScript Developer 👋</h1> 
 
 <h2>Here is my contacts:</h2>
 <p align="center">

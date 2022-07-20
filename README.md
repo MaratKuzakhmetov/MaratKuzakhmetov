@@ -9,7 +9,7 @@
 <hr>
 
 <h3>My stack:</h3>
-<p><span font-weight="600">Frontend:</span> JS, React, API, Redux (Saga, Thunk), HTML5, CSS3, Sass, Handlebars, Material-UI, Bootstrap</p>
-<p>Backend: Node.js, Express, Sessions, CORS, Typescript (in process)</p>
-<p>DB: PostgreSQL, Sequelize ORM</p>
-<p>Also: Jest, REST</p>
+<p><strong>Frontend:</strong> JS, React, API, Redux (Saga, Thunk), HTML5, CSS3, Sass, Handlebars, Material-UI, Bootstrap</p>
+<p><strong>Backend:</strong> Node.js, Express, Sessions, CORS, Typescript (in process)</p>
+<p><strong>DB:</strong> PostgreSQL, Sequelize ORM</p>
+<p><strong>Also:</strong> Jest, REST</p>

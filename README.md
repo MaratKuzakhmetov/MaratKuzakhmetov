@@ -19,6 +19,14 @@ I want to start volunteering, so I hope than in near future I'll made some good 
 
 <hr>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaratKuzakhmetov&show_icons=true&theme=radical)
+
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaratKuzakhmetov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
 <h3>My stack:</h3>
 <p><strong>Frontend:</strong> JS, React, API, Redux (Saga, Thunk), HTML5, CSS3, Sass, Handlebars, Material-UI, Bootstrap</p>
 <p><strong>Backend:</strong> Node.js, Express, Sessions, CORS, Typescript (in process)</p>

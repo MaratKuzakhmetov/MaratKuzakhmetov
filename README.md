@@ -13,9 +13,9 @@ I want to start volunteering, so I hope than in near future I'll made some good 
 
 <h3>You can reach me with the links below:</h3>
 <p>
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Marat_Kuzakhmetov)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuzakhmetovmarat@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marat-kuzakhmetov/)
+<a href="https://www.linkedin.com/in/marat-kuzakhmetov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kuzakhmetovmarat@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=Grey" /></a>
+<a href="https://t.me/Marat_Kuzakhmetov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <hr>

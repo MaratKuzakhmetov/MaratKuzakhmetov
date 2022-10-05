@@ -34,7 +34,7 @@ I want to start volunteering, so I hope than in near future I'll made some good 
 <p><strong>DB:</strong> PostgreSQL, Sequelize ORM</p>
 <p><strong>Also:</strong> Jest, REST</p>
 
-<p><strong>My CodeWars profile</strong></p> 
+#### My CodeWars profile 
 [![CodeWars](https://www.codewars.com/users/MaratKuzakhmetov/badges/small?theme=light)](https://www.codewars.com/users/MaratKuzakhmetov)
 
 <div align="center"> 

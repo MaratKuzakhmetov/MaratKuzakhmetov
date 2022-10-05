@@ -11,10 +11,11 @@ I enjoy animals, especially dogs, and also spend my time to help homeless animal
 I want to start volunteering, so I hope than in near future I'll made some good things for that
 </p>
 
-<h3>My contacts are below:</h3>
+<h3>You can reach me with the links below:</h3>
 <p>
-<a href="https://www.linkedin.com/in/marat-kuzakhmetov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/Marat_Kuzakhmetov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Marat_Kuzakhmetov)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuzakhmetovmarat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marat-kuzakhmetov/)
 </p>
 
 <hr>
@@ -32,3 +33,7 @@ I want to start volunteering, so I hope than in near future I'll made some good 
 <p><strong>Backend:</strong> Node.js, Express, Sessions, CORS, Typescript (in process)</p>
 <p><strong>DB:</strong> PostgreSQL, Sequelize ORM</p>
 <p><strong>Also:</strong> Jest, REST</p>
+
+<div align="center"> 
+<img src="https://komarev.com/ghpvc/?username=mariazobnina&style=flat-square&color=blue" alt=""/>
+</div>
